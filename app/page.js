@@ -5,7 +5,7 @@ export default function Home() {
   return (
   <div>
     <h1>hello guys</h1>
-   <Link href="/dashboard">click here</Link>
+    <Button>start here</Button>
     
 
   </div>
